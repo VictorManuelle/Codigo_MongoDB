@@ -2,6 +2,7 @@
 Codigo trabajado dentro de MongoDB
 # Archivos usados:
 MongoDB 8.2.1
+
 Datos publicos de entidad de gas
 https://www.datos.gov.co/resource/ek3f-5wn4.csv
 
