@@ -14,6 +14,7 @@ Despues de eso dentro de contratos le damos a import data y colocamos los datos 
 campos principales:
 
 _id: Identificador unico.
+
 ano: Año vigente de la tarifa.
 mes: Mes que aplica la tarifa.
 empresa: Nombre de la empresa que presta el servicio.
