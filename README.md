@@ -12,6 +12,7 @@ Despues de eso dentro de contratos le damos a import data y colocamos los datos 
 
 # Documentación del diseño de la base de datos
 campos principales:
+
 _id: Identificador unico
 
 ano: Año vigente de la tarifa.
